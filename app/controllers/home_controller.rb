@@ -4,7 +4,7 @@ class HomeController < ApplicationController
     render template: "homes/index"
   end
 
-  def show
-    @home = home.
-  end 
+  # def show
+  #   @home = home.
+  # end 
 end
